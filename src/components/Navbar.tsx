@@ -141,7 +141,7 @@ export default function Navbar() {
                             </a>
 
                             <a
-                                href="https://www.tiktok.com/@ltpkomura"
+                                href="https://www.tiktok.com/@ltpkomuraa"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 title="TikTok"
