@@ -614,7 +614,7 @@ const htmlContent = `<!DOCTYPE html>
             </div>
 
             <div class="avatar-box">
-                <img src="https://cdn.discordapp.com/attachments/1467110452784795745/1546822624330649621/IMG_4492.jpg?ex=6aa12e54&is=6a9fdcd4&hm=8c634d99dc22d7745b6bb0403aed022afaae3007043a67a9014592bf297f4ef0&" alt="Komura" class="avatar">
+                <img src="https://cdn.upanhlaylink.com/i/bLfn2Qds.jpeg" alt="Komura" class="avatar">
                 <div class="status-dot" title="Do Not Disturb"></div>
             </div>
 
